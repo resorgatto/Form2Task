@@ -98,11 +98,6 @@ Questions?
 Open an issue in the repository.
 
 
----
-
-Let me know if you want a more concise version, or if you’d like to include example schedul
-
-
 
 #### pt-br
 
